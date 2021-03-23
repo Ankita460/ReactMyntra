@@ -206,8 +206,7 @@ const styles = StyleSheet.create({
     fontSize:20,
     marginTop:15,
     marginLeft:20,
-    marginBo
-    ttom:10,
+    marginBottom:10,
     
   },
   headerShadow:{
